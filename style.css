@@ -29,3 +29,9 @@
     margin: auto;
     margin-top: 5px;
   }
+  #displayCard{
+    margin-top: 5px;
+    border: 2px solid rgb(227, 218, 218);
+    padding: 5px;
+  }
+  
